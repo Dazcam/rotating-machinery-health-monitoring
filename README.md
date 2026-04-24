@@ -79,6 +79,6 @@ Python, Scikit-learn, PyTorch, Streamlit, NumPy, Pandas, SciPy, Matplotlib, Seab
 
 | Project | Status |
 |---|---|
-| 01 Bearing fault classification | 🔧 In progress |
+| 01 Bearing fault classification | Complete  |
 | 02 Anomaly detection | 🔧 In progress |
 | 03 Health dashboard | 🔧 In progress |
